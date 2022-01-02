@@ -12,8 +12,8 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 # Buttons used
 start_btn = [
     [
-        InlineKeyboardButton('🎖 GitHub', url=Presets.SOURCE_URL),
-        InlineKeyboardButton('🔰 Support', url=Presets.SUPPORT_URL)
+        InlineKeyboardButton('🛡 Youtube Channel 🛡', url=Presets.SOURCE_URL),
+        InlineKeyboardButton('🔰 Support 🔰', url=Presets.SUPPORT_URL)
     ],
     [
         InlineKeyboardButton('📸 Thumbnail', callback_data='view_btn'),
